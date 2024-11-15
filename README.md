@@ -16,7 +16,7 @@ MAX_VALUE or MAX_VALUE to 0.
 	The direction of the count(mode) is selected using a single bit input. The module has 3 inputs - clk, reset which is active high and a Up Or Down mode input. 
 The output is Counter which is 4 bit in size.
 
-	When Up mode is selected, counter counts from 0 to 15 and then again from 0 to 15.
+	When Up mode is selected, counter counts from 0 to 15 and then again from 0 to 15
 
 	When Down mode is selected, counter counts from 15 to 0 and then again from 15 to 0.
 
